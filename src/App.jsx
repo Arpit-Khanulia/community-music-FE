@@ -82,7 +82,7 @@ function App() {
       <header className="header">
         <div className="logo">
           <span className="logo-icon">♫</span>
-          <span className="logo-text">Wave</span>
+          <span className="logo-text">Community Music</span>
         </div>
       </header>
 
@@ -196,6 +196,10 @@ function App() {
             </div>
           )}
         </section>
+
+        <footer className="footer">
+          <p>Developed by <a href="https://github.com/Arpit-Khanulia" target="_blank" rel="noopener noreferrer">firedragon</a></p>
+        </footer>
       </main>
     </div>
   );
